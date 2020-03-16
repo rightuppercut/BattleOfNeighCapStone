@@ -1,0 +1,115 @@
+C:\Users\User\Documents\KARTHIK\PythonPyCharm\MyCapStoneProject\venv\Scripts\python.exe C:/Users/User/Documents/GitHub/BattleOfNeighCapStone/Begin_main.py
+>>> Action 2 : QueryFourSquare
+>>> Reading File Into Data Frame : C:\Users\User\Documents\GitHub\BattleOfNeighCapStone\QueryLocations.csv
+    $ Latitude and longitude values of SIMPANG are 1.4452954, 103.8497425.
+    $ Latitude and longitude values of SOUTHERN ISLANDS are 1.2710888999999999, 103.86328.
+    $ Latitude and longitude values of SUNGEI KADUT are 1.4149971000000001, 103.75331059999999.
+    $ Latitude and longitude values of TUAS are 1.3293722, 103.6482364.
+    $ Latitude and longitude values of WESTERN ISLANDS are 1.24066895, 104.20177165828224.
+    $ Latitude and longitude values of WESTERN WATER CATCHMENT are 1.3664522, 103.6810305.
+    $ Latitude and longitude values of DOWNTOWN CORE are 1.2867, 103.8535.
+    $ Latitude and longitude values of NEWTON are 1.312981, 103.8389215.
+    $ Latitude and longitude values of ORCHARD are 1.305272, 103.8328757.
+    $ Latitude and longitude values of KALLANG are 1.310759, 103.866262.
+    $ Latitude and longitude values of LIM CHU KANG are 1.4342172, 103.7149872.
+    $ Latitude and longitude values of NORTH-EASTERN ISLANDS are 1.4064, 104.0323.
+    $ Latitude and longitude values of PASIR RIS are 1.3730307, 103.94925500000001.
+    $ Latitude and longitude values of STRAITS VIEW are 1.2792579, 103.85318559999999.
+    $ Latitude and longitude values of MARINA EAST are 1.288624, 103.869827.
+    $ Latitude and longitude values of MARINA SOUTH are 1.2769979999999999, 103.8615002.
+    $ Latitude and longitude values of TENGAH are 1.3669016999999999, 103.71084559999998.
+    $ Latitude and longitude values of SERANGOON are 1.3497629, 103.873721.
+    $ Latitude and longitude values of BOON LAY are 1.3385752, 103.7058478.
+    $ Latitude and longitude values of BEDOK are 1.3239765, 103.930216.
+    $ Latitude and longitude values of BUKIT MERAH are 1.2806275, 103.8305915.
+    $ Latitude and longitude values of BUKIT PANJANG are 1.378629, 103.7621358.
+    $ Latitude and longitude values of JURONG EAST are 1.333115, 103.7422968.
+    $ Latitude and longitude values of BUKIT TIMAH are 1.3546901000000002, 103.7763724.
+    $ Latitude and longitude values of CHANGI are 1.352516, 103.98700696741236.
+    $ Latitude and longitude values of CHOA CHU KANG are 1.3847493, 103.7445341.
+    $ Latitude and longitude values of QUEENSTOWN are 1.2946235000000001, 103.8060454.
+    $ Latitude and longitude values of SELETAR are 1.4098488, 103.87737890000001.
+    $ Latitude and longitude values of MANDAI are 1.4235346000000002, 103.8033499.
+    $ Latitude and longitude values of ANG MO KIO are 1.3700733, 103.8495157.
+    $ Latitude and longitude values of BISHAN are 1.3514521000000002, 103.84824959999999.
+    $ Latitude and longitude values of BUKIT BATOK are 1.3490572, 103.74959059999999.
+    $ Latitude and longitude values of CHANGI BAY are 1.3168496, 104.02064940000001.
+    $ Latitude and longitude values of JURONG WEST are 1.3396365, 103.7073387.
+    $ Latitude and longitude values of CLEMENTI are 1.3151003, 103.7652311.
+    $ Latitude and longitude values of GEYLANG are 1.3181862, 103.8870563.
+    $ Latitude and longitude values of HOUGANG are 1.3719043, 103.892725.
+    $ Latitude and longitude values of PIONEER are 1.3375883999999998, 103.69741040000001.
+    $ Latitude and longitude values of PUNGGOL are 1.4052585, 103.90233020000001.
+    $ Latitude and longitude values of SEMBAWANG are 1.4490928, 103.82005550000001.
+    $ Latitude and longitude values of SENGKANG are 1.3913303999999997, 103.8952941.
+    $ Latitude and longitude values of TAMPINES are 1.3468926, 103.94734087817068.
+    $ Latitude and longitude values of TANGLIN are 1.3060443000000002, 103.8152804.
+    $ Latitude and longitude values of TOA PAYOH are 1.3353906, 103.84974140000001.
+    $ Latitude and longitude values of WOODLANDS are 1.4368969999999999, 103.78621600000001.
+    $ Latitude and longitude values of YISHUN are 1.4293839, 103.8350282.
+    $ Latitude and longitude values of MUSEUM are 1.3011676, 103.7734711.
+    $ Latitude and longitude values of OUTRAM are 1.2828694999999999, 103.8378603.
+    $ Latitude and longitude values of MARINE PARADE are 1.3026889, 103.90739520000001.
+    $ Latitude and longitude values of NOVENA are 1.3205257, 103.84388133927948.
+    $ Latitude and longitude values of PAYA LEBAR are 1.3538993, 103.88782052662438.
+    $ Latitude and longitude values of RIVER VALLEY are 1.3083982, 103.88614890000001.
+    $ Latitude and longitude values of ROCHOR are 1.30326565, 103.85242609639884.
+    $ Latitude and longitude values of SINGAPORE RIVER are 1.28917835, 103.84515431766009.
+    Location ID            Location Name   Latitude   Longitude FourSquare
+0            26                  SIMPANG   1.445295  103.849743         No
+1            27         SOUTHERN ISLANDS   1.271089  103.863280        Yes
+2            28             SUNGEI KADUT   1.414997  103.753311         No
+3            33                     TUAS   1.329372  103.648236         No
+4            34          WESTERN ISLANDS   1.240669  104.201772         No
+5            35  WESTERN WATER CATCHMENT   1.366452  103.681031         No
+6            38            DOWNTOWN CORE   1.286700  103.853500        Yes
+7            42                   NEWTON   1.312981  103.838921        Yes
+8            43                  ORCHARD   1.305272  103.832876        Yes
+9            45                  KALLANG   1.310759  103.866262        Yes
+10           46             LIM CHU KANG   1.434217  103.714987         No
+11           49    NORTH-EASTERN ISLANDS   1.406400  104.032300        Yes
+12           51                PASIR RIS   1.373031  103.949255        Yes
+13           56             STRAITS VIEW   1.279258  103.853186        Yes
+14           39              MARINA EAST   1.288624  103.869827        Yes
+15           40             MARINA SOUTH   1.276998  103.861500        Yes
+16           31                   TENGAH   1.366902  103.710846         No
+17           25                SERANGOON   1.349763  103.873721        Yes
+18            5                 BOON LAY   1.338575  103.705848        Yes
+19            3                    BEDOK   1.323976  103.930216        Yes
+20            7              BUKIT MERAH   1.280628  103.830591        Yes
+21            8            BUKIT PANJANG   1.378629  103.762136        Yes
+22            9              JURONG EAST   1.333115  103.742297        Yes
+23           11              BUKIT TIMAH   1.354690  103.776372        Yes
+24           13                   CHANGI   1.352516  103.987007        Yes
+25           15            CHOA CHU KANG   1.384749  103.744534        Yes
+26           21               QUEENSTOWN   1.294624  103.806045        Yes
+27           22                  SELETAR   1.409849  103.877379        Yes
+28           47                   MANDAI   1.423535  103.803350         No
+29            2               ANG MO KIO   1.370073  103.849516        Yes
+30            4                   BISHAN   1.351452  103.848250        Yes
+31            6              BUKIT BATOK   1.349057  103.749591        Yes
+32           14               CHANGI BAY   1.316850  104.020649        Yes
+33           10              JURONG WEST   1.339636  103.707339        Yes
+34           16                 CLEMENTI   1.315100  103.765231        Yes
+35           17                  GEYLANG   1.318186  103.887056        Yes
+36           18                  HOUGANG   1.371904  103.892725        Yes
+37           19                  PIONEER   1.337588  103.697410        Yes
+38           20                  PUNGGOL   1.405258  103.902330        Yes
+39           23                SEMBAWANG   1.449093  103.820056        Yes
+40           24                 SENGKANG   1.391330  103.895294        Yes
+41           29                 TAMPINES   1.346893  103.947341        Yes
+42           30                  TANGLIN   1.306044  103.815280        Yes
+43           32                TOA PAYOH   1.335391  103.849741        Yes
+44           36                WOODLANDS   1.436897  103.786216        Yes
+45           37                   YISHUN   1.429384  103.835028        Yes
+46           41                   MUSEUM   1.301168  103.773471        Yes
+47           44                   OUTRAM   1.282869  103.837860        Yes
+48           48            MARINE PARADE   1.302689  103.907395        Yes
+49           50                   NOVENA   1.320526  103.843881        Yes
+50           52               PAYA LEBAR   1.353899  103.887821        Yes
+51           53             RIVER VALLEY   1.308398  103.886149        Yes
+52           54                   ROCHOR   1.303266  103.852426        Yes
+53           55          SINGAPORE RIVER   1.289178  103.845154        Yes
+Done !
+
+Process finished with exit code 0
